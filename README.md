@@ -5,12 +5,18 @@ An organized learning path and resource collections
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/325epPM) | Gamma, Helm, Johnson, Vlissides
 * [Patterns of Enterprise Application Architecture](https://amzn.to/2HrxQKU) | Martin Fowler
+
+## DDD
+
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software (2003)](https://amzn.to/2ZvFyOq) | Eric Evans
+* [Implementing Domain-Driven Design](https://amzn.to/385tCWZ) | Vernon Vaughn
+* [Domain-Driven Design Distilled](https://amzn.to/2X6Trji) | Vernon Vaughn
 
 ## Refactoring
 
 * [Refactoring: Improving the Design of Existing Code](https://amzn.to/2KVr7ee) | Martin Fowler, Kent Beck
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/3240HN7) | Robert C. Martin
+* [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/350k8dS) |  Robert C. Martin
 
 ## Automated testing
 
@@ -19,14 +25,12 @@ An organized learning path and resource collections
 ## Microservices
 
 * [Building Microservices: Designing Fine-Grained Systems](https://amzn.to/322txh1) | Sam Newman
+* [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://amzn.to/3pFtV0I) | Sam Newman
 
-## Ruby
+## Architecture
 
-* [Programming Ruby](https://amzn.to/325XQ6k) | Dave Thomas
-* [Metaprogramming Ruby 2: Program Like the Ruby Pros](https://amzn.to/326Owzi) | Paolo Perrotta
-* [Agile Web Development with Rails 5.1](https://amzn.to/2KXopVE) | Sam Ruby, David B. Copeland, Dave Thomas
-* [The Rails 5 Way](https://amzn.to/33XIcf6) | Obie Fernandez
-* [Effective Testing with RSpec 3: Build Ruby Apps with Confidence](https://amzn.to/2ZrW0ek) | Myron Martson, Ian Dees
+* [Building Evolutionary Architectures: Support Constant Change](https://amzn.to/3rH5hi9) | Ford, Parsons, Kua
+* [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/3o8LO7S) |  Robert C. Martin
 
 ## Rust
 
@@ -38,25 +42,15 @@ An organized learning path and resource collections
 
 * [Learning Python](https://amzn.to/2ZsbeVP) | Mark Lutz
 * [Fluent Python: Clear, Concise, and Effective Programming](https://amzn.to/329kP0w) | Luciano Ramalho
-* [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://amzn.to/2LcZ60Q) | Harry Percival
 
-## JavaScript
+## Elm
 
-* [JavaScript: The Definitive Guide: Activate Your Web Pages](https://amzn.to/2zu2Oh6) | David Flanagan
-* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://amzn.to/2zu2Oh6) | Nicholas C. Zakas
-* [The Principles of Object-Oriented JavaScript](https://amzn.to/2Pjd3zm) | Nicholas C. Zakas
-* [Programming TypeScript: Making Your JavaScript Applications Scale](https://amzn.to/2ZyfZrU) | Boris Cherny
+* [Elm in Action](https://bit.ly/3o6F8Ha) | Richard Feldman
 
 ## Java
 
-* [Learn Java: A Crash Course Guide to Learn Java in 1 Week](https://amzn.to/2ZJ0zB0) | Timothy C. Needham
 * [Head First Java](https://amzn.to/2ZCHTTG) | Kathy Sierra, Bert Bates
-* [Intro to Java Programming, Comprehensive Version](https://amzn.to/2zFZlMi) | Y. Daniel Liang
 * [Effective Java](https://amzn.to/2MPq29X) | Joshua Bloch
-
-### Java / Spring
-* [Pro Spring 5](https://amzn.to/2LdeknM) | Cosmina, Harrop, Schaefer, Ho
-* [Spring Microservices](https://amzn.to/2NIEwbl) | Rajesh RV
 
 ## Elixir
 
@@ -80,3 +74,7 @@ An organized learning path and resource collections
 
 * [UNIX System Administration Handbook](https://amzn.to/2NxRGIh) | Evi Nemeth, Garth Snyder, Scott Seebass, Trent Hein
 * [Understanding the Linux Kernel](https://amzn.to/2KYeG1q) | Daniel P. Bovet, Marco Cesati
+
+## Math
+
+[Math section](MATH.md)
