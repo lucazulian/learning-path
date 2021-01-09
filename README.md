@@ -78,3 +78,8 @@ An organized learning path and resource collections
 ## Math
 
 [Math section](MATH.md)
+
+## Documentation Style Guides
+
+* [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
+* [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
