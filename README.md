@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to this organized learning path and resource collections.
+Welcome to this organized learning path and resource collection.
 
 The materials are all organized in sections based on specific topics. There is no order to follow. You can skim through all the sections, look for anything specific, follow only a few sections, or just start reading from the very beginning to the end. It's your choice!
 
@@ -95,4 +95,8 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
 
 ## Recommended Readings
+
 This section provides a list of recommended books readings that have not been mentioned directly in this learning path, but of significant importance.
+
+* [How to Communicate Like a Buddhist](https://amzn.to/3p8CgKx) | Cynthia Kane
+
