@@ -8,6 +8,7 @@ The materials are all organized in sections based on specific topics. There is n
 
 I am willing to keep this study path always updated, and I would invite you to contribute by submitting any material you believe will improve it.
 
+
 ## Design patterns
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/325epPM) | Gamma, Helm, Johnson, Vlissides
@@ -63,6 +64,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 * [Programming Elixir ≥ 1.6: Functional |> Concurrent |> Pragmatic |> Fun](https://amzn.to/329isuG) | Dave Thomas
 * [Programming Phoenix ≥ 1.4: Productive |> Reliable |> Fast](https://amzn.to/2zqTpac) | Chris McCord, Bruce Tate, Jose Valim
+* [Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do](https://amzn.to/3raqHmL) | Fred Hebert
 
 ## Go
 
@@ -93,6 +95,11 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 * [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 * [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
+
+## Algorithms
+
+* [Algorithms (4th Edition)](https://algs4.cs.princeton.edu/home/)
+
 
 ## Recommended Readings
 
