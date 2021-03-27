@@ -56,6 +56,15 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/3o8LO7S) |  Robert C. Martin
 
 
+### Haskell
+
+* [Programming in Haskell 2nd Edition ](https://amzn.to/3tYZq8c) | Graham Hutton
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) | Miran Lipovaca 
+* [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) | Vitaly Bragilevsky
+* [CIS 194: Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | Joachim Breitner
+* [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | Jeremy Singer
+
+
 ### Rust
 
 * [Programming Rust: Fast, Safe Systems Development](https://amzn.to/2HscQU9) | Jim Blandy, Jason Orendorff
@@ -85,7 +94,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 * [Programming Elixir ≥ 1.6: Functional |> Concurrent |> Pragmatic |> Fun](https://amzn.to/329isuG) | Dave Thomas
 * [Programming Phoenix ≥ 1.4: Productive |> Reliable |> Fast](https://amzn.to/2zqTpac) | Chris McCord, Bruce Tate, Jose Valim
-* [Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do](https://amzn.to/3raqHmL) | Fred Hebert
+* [Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/) | Fred Hebert
 * [Genetic Algorithms in Elixir](https://www.pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/) | Sean Moriarity
 
 
@@ -133,17 +142,21 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 ### Algorithms
 
-* [Algorithms (4th Edition)](https://algs4.cs.princeton.edu/home/)
+* [Algorithms (4th Edition)](https://algs4.cs.princeton.edu/home/) | Robert Sedgewick, Kevin Wayne
 
 
 ### LaTeX
 
-* [LaTeX Beginner's Guide](https://www.packtpub.com/product/latex-beginner-s-guide/9781847199867)
+* [LaTeX Beginner's Guide](https://www.packtpub.com/product/latex-beginner-s-guide/9781847199867) | Stefan Kottwitz
 
+
+### Principles and Practices
+
+* [Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design](https://amzn.to/3tWFv9R) | Pedro M. Santos, Marco Consolaro, Alessandro Di Gioia
 
 ### Recommended Readings
 
 This section provides a list of recommended books readings that have not been mentioned directly in this learning path, but of significant importance.
 
 * [How to Communicate Like a Buddhist](https://amzn.to/3p8CgKx) | Cynthia Kane
-
+* [Mindfulness in Plain English](https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069) | Bhante Gunaratana 
