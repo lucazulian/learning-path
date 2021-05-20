@@ -63,6 +63,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) | Vitaly Bragilevsky
 * [CIS 194: Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | Joachim Breitner
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | Jeremy Singer
+* [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | Marco Sampellegrini
 
 
 ### Rust
