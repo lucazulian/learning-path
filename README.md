@@ -97,6 +97,10 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Programming Phoenix ≥ 1.4: Productive |> Reliable |> Fast](https://amzn.to/2zqTpac) | Chris McCord, Bruce Tate, Jose Valim
 * [Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/) | Fred Hebert
 * [Genetic Algorithms in Elixir](https://www.pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/) | Sean Moriarity
+* [Testing Elixir: Effective and Robust Testing for Elixir and its Ecosystem](https://pragprog.com/titles/lmelixir/testing-elixir/) | Andrea Leopardi, Jeffrey Matthias 
+* [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition) | Saša Jurić
+* [Designing Elixir Systems with OTP: Write Highly Scalable, Self-Healing Software with Layers](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/) | James Edward Gray, II and Bruce A. Tate 
+* [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/) | Chris McCord 
 
 
 ### Go
