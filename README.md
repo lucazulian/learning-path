@@ -31,6 +31,17 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Domain-Driven Design Distilled](https://amzn.to/2X6Trji) | Vernon Vaughn
 
 
+### eXtreme Programming
+
+* [Extreme Programming Explained: Embrace Change - first edition](https://amzn.to/2TbF4eH) | Kent Beck 
+* [Extreme Programming Explained: Embrace Change - second edition](https://amzn.to/3goZKHY) | Kent Beck 
+
+
+### CD / CI
+
+* [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://amzn.to/3cuLZ9I) | Jez Humble, David Farley
+
+
 ### Refactoring
 
 * [Refactoring: Improving the Design of Existing Code](https://amzn.to/2KVr7ee) | Martin Fowler, Kent Beck
@@ -58,12 +69,15 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 ### Haskell
 
-* [Programming in Haskell 2nd Edition ](https://amzn.to/3tYZq8c) | Graham Hutton
+* [Programming in Haskell 2nd Edition](https://amzn.to/3tYZq8c) | Graham Hutton
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) | Miran Lipovaca 
 * [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) | Vitaly Bragilevsky
 * [CIS 194: Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | Joachim Breitner
 * [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell) | Jeremy Singer
 * [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | Marco Sampellegrini
+* [Haskell Programming From First Principles](https://haskellbook.com/) | Christopher Allen, Julie Moronuki
+* [Finding Success (and Failure) in Haskell](https://leanpub.com/finding-success-in-haskell) | Chris Martin, Julie Moronuki
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) |  Stephen Diehl
 
 
 ### Rust
@@ -89,6 +103,11 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 * [Head First Java](https://amzn.to/2ZCHTTG) | Kathy Sierra, Bert Bates
 * [Effective Java](https://amzn.to/2MPq29X) | Joshua Bloch
+
+
+### Scala
+
+* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) | Paul Chiusano, Runar Bjarnason
 
 
 ### Elixir
@@ -130,13 +149,15 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Understanding the Linux Kernel](https://amzn.to/2KYeG1q) | Daniel P. Bovet, Marco Cesati
 
 
-### Math
-
-
 #### Math for programmers
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) | Jeremy Kun
 * [A Brief Course in Modern Math for Programmers](https://gumroad.com/l/lcbk02) | Vlad Patryshev
+
+
+### Logic
+
+* [To Mock a Mockingbird and Other Logic Puzzles](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird) | Raymond Smullyan
 
 
 ### Documentation Style Guides
@@ -158,6 +179,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 ### Principles and Practices
 
 * [Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design](https://amzn.to/3tWFv9R) | Pedro M. Santos, Marco Consolaro, Alessandro Di Gioia
+
 
 ### Recommended Readings
 
