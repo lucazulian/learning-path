@@ -18,7 +18,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 ## Resources
 
 
-### Design patterns
+### Design Patterns
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/325epPM) | Gamma, Helm, Johnson, Vlissides
 * [Patterns of Enterprise Application Architecture](https://amzn.to/2HrxQKU) | Martin Fowler
@@ -42,16 +42,22 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://amzn.to/3cuLZ9I) | Jez Humble, David Farley
 
 
-### Refactoring
+### Refactoring / Clean Code
 
 * [Refactoring: Improving the Design of Existing Code](https://amzn.to/2KVr7ee) | Martin Fowler, Kent Beck
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/3240HN7) | Robert C. Martin
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/350k8dS) |  Robert C. Martin
+* [Clean Craftmanship: Programming with Pride](https://amzn.to/2ZcK8CC) | Robert C. Martin
 
 
-### Automated testing
+### Automated Testing
 
 * [Test Driven Development: By Example](https://amzn.to/2HtNllt) | Kent Beck
+
+
+### Testing
+
+* [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) | Vladimir Khorikov
 
 
 ### Microservices
@@ -65,6 +71,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 * [Building Evolutionary Architectures: Support Constant Change](https://amzn.to/3rH5hi9) | Ford, Parsons, Kua
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/3o8LO7S) |  Robert C. Martin
+* [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture) | Alexander Granin
 
 
 ### Haskell
@@ -135,7 +142,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Learning Functional Programming in Go](https://amzn.to/2NJInoA) | Lex Sheehan
 
 
-### Artificial intelligence
+### Artificial Intelligence
 
 * [Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms](https://amzn.to/2KYOWBO) | Jeff Heaton
 * [Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms](https://amzn.to/2KVkoB8) | Jeff Heaton
