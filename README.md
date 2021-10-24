@@ -119,7 +119,12 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Testing Elixir: Effective and Robust Testing for Elixir and its Ecosystem](https://pragprog.com/titles/lmelixir/testing-elixir/) | Andrea Leopardi, Jeffrey Matthias 
 * [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition) | Saša Jurić
 * [Designing Elixir Systems with OTP: Write Highly Scalable, Self-Healing Software with Layers](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/) | James Edward Gray, II and Bruce A. Tate 
-* [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/) | Chris McCord 
+* [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/) | Chris McCord
+* [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/) | by Bruce A. Tate, Sophie DeBenedetto
+* [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/titles/lhelph/functional-web-development-with-elixir-otp-and-phoenix/) | Lance Halvorsen
+* [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/) | Svilen Gospodinov
+* [Programming Ecto](https://pragprog.com/titles/wmecto/programming-ecto/) | Darin Wilson, Eric Meadows-Jönsson
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/titles/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe/) | Bruce Williams, Ben Wilson
 
 
 ### Go
