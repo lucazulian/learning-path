@@ -173,6 +173,11 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 ### Algorithms
 
+* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | Aditya Y. Bhargava
+* [Algorithms Illuminated: Part 1: The Basics](https://www.algorithmsilluminated.org/) | Tim Roughgarden
+* [Algorithms Illuminated: Part 2: Graph Algorithms and Data Structures](https://www.algorithmsilluminated.org/) | Tim Roughgarden
+* [Algorithms Illuminated: Part 3: Greedy Algorithms and Dynamic Programming ](https://www.algorithmsilluminated.org/) | Tim Roughgarden
+* [Algorithms Illuminated: Part 4: Algorithms for NP-Hard Problems](https://www.algorithmsilluminated.org/) | Tim Roughgarden
 * [Algorithms (4th Edition)](https://algs4.cs.princeton.edu/home/) | Robert Sedgewick, Kevin Wayne
 
 
@@ -192,3 +197,4 @@ This section provides a list of recommended books readings that have not been me
 
 * [How to Communicate Like a Buddhist](https://amzn.to/3p8CgKx) | Cynthia Kane
 * [Mindfulness in Plain English](https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069) | Bhante Gunaratana 
+* [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) | James Stanier
