@@ -132,6 +132,16 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/) | Svilen Gospodinov
 * [Programming Ecto](https://pragprog.com/titles/wmecto/programming-ecto/) | Darin Wilson, Eric Meadows-Jönsson
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/titles/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe/) | Bruce Williams, Ben Wilson
+* [Real-Time Phoenix](https://pragprog.com/titles/sbsockets/real-time-phoenix/) | Stephen Bussey
+* [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) | Benjamin Tan Wei Hao 
+
+
+### Erlang
+
+* [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action) | Martin Logan, Eric Merritt, Richard Carlsson 
+* [Programming Erlang (2nd edition)](https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/) | Joe Armstrong
+* [Learn You Some Erlang for great good!](https://learnyousomeerlang.com/) | Fred Hebert
+* [Designing for Scalability with Erlang/OTP](https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/) | Francesco Cesarini, Steve Vinoski
 
 
 ### Go
