@@ -1,0 +1,27 @@
+---
+name: Check external link validity
+
+on:
+  workflow_dispatch:
+    inputs: {}
+
+  # Run every day at 9:00 AM.
+  # https://crontab.guru/#0_9_*_*_*
+  schedule:
+    - cron: "0 9 * * 1"
+
+jobs:
+  check-links:
+    name: Check all links
+    runs-on: ubuntu-18.04
+    strategy:
+      fail-fast: false
+    env: {}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Check validity of all links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-verbose-mode: 'yes'
