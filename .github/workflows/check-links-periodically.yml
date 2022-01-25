@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
     inputs: {}
 
-  # Run every day at 9:00 AM.
-  # https://crontab.guru/#0_9_*_*_*
+  # Run every Monday at 9:00 AM.
+  # https://crontab.guru/#0_9_*_*_1
   schedule:
     - cron: "0 9 * * 1"
 
