@@ -84,7 +84,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 * [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | Marco Sampellegrini
 * [Haskell Programming From First Principles](https://haskellbook.com/) | Christopher Allen, Julie Moronuki
 * [Finding Success (and Failure) in Haskell](https://leanpub.com/finding-success-in-haskell) | Chris Martin, Julie Moronuki
-* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) |  Stephen Diehl
+* [What I Wish I Knew When Learning Haskell](https://github.com/sdiehl/wiwinwlh) |  Stephen Diehl
 
 
 ### Rust
