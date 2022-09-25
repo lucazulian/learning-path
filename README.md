@@ -1,6 +1,6 @@
 *This learning path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license*
 
-## Introduction
+# Introduction
 
 Welcome to this organized learning path and resource collection.
 
@@ -9,10 +9,7 @@ The materials are all organized in sections based on specific topics. There is n
 I am willing to keep this study path always updated, and I would invite you to contribute by submitting any material you believe will improve it.
 
 
-## Learning path
-
-
- TODO
+# Learning path
 
 
 ## Resources
@@ -210,7 +207,7 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 ### Recommended Readings
 
-This section provides a list of recommended books readings that have not been mentioned directly in this learning path, but of significant importance.
+This section provides a list of recommended book readings that have not been mentioned directly in this learning path but are of significant importance.
 
 * [How to Communicate Like a Buddhist](https://amzn.to/3p8CgKx) | Cynthia Kane
 * [Mindfulness in Plain English](https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069) | Bhante Gunaratana 
